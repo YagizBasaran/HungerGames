@@ -7,6 +7,6 @@ food will consume it. At different times during the simulation, I will introduce
 region. The creatures will race and fight against each other to survive by consuming the food resources scattered
 around.
 
-- Output is the locations of the creatures at the moment and it will be updated with great GUI as we can see in the GIF.
+- Output is the locations of the creatures at the moment but it will be updated with great GUI as we can see in the GIF.
 
 ![This is a GUI representation of the simulation with given datas](https://github.com/YagizBasaran/HungerGames/assets/91428580/1e7d26d8-b113-4859-af65-37c91f0063a6)
